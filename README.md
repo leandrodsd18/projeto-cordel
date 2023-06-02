@@ -1,2 +1,2 @@
 # projeto-cordel
- Projeto desenvolvido no modolu 3 do curso de HMTL5 e CSS3 od curso em video
+ Projeto desenvolvido no módulo 3 do curso de HMTL5 e CSS3 do curso em video
